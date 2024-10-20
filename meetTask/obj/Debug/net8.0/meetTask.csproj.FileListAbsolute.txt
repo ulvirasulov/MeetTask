@@ -1,0 +1,14 @@
+C:\Users\ulvir\source\repos\meetTask\meetTask\bin\Debug\net8.0\meetTask.exe
+C:\Users\ulvir\source\repos\meetTask\meetTask\bin\Debug\net8.0\meetTask.deps.json
+C:\Users\ulvir\source\repos\meetTask\meetTask\bin\Debug\net8.0\meetTask.runtimeconfig.json
+C:\Users\ulvir\source\repos\meetTask\meetTask\bin\Debug\net8.0\meetTask.dll
+C:\Users\ulvir\source\repos\meetTask\meetTask\bin\Debug\net8.0\meetTask.pdb
+C:\Users\ulvir\source\repos\meetTask\meetTask\obj\Debug\net8.0\meetTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ulvir\source\repos\meetTask\meetTask\obj\Debug\net8.0\meetTask.AssemblyInfoInputs.cache
+C:\Users\ulvir\source\repos\meetTask\meetTask\obj\Debug\net8.0\meetTask.AssemblyInfo.cs
+C:\Users\ulvir\source\repos\meetTask\meetTask\obj\Debug\net8.0\meetTask.csproj.CoreCompileInputs.cache
+C:\Users\ulvir\source\repos\meetTask\meetTask\obj\Debug\net8.0\meetTask.dll
+C:\Users\ulvir\source\repos\meetTask\meetTask\obj\Debug\net8.0\refint\meetTask.dll
+C:\Users\ulvir\source\repos\meetTask\meetTask\obj\Debug\net8.0\meetTask.pdb
+C:\Users\ulvir\source\repos\meetTask\meetTask\obj\Debug\net8.0\meetTask.genruntimeconfig.cache
+C:\Users\ulvir\source\repos\meetTask\meetTask\obj\Debug\net8.0\ref\meetTask.dll
